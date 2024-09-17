@@ -1,10 +1,6 @@
 # Written communication
 Using clarity, brevity, and general best practices in writing Correctly using vocabulary and applying grammar and spelling rules
 
-## Instructions
-On the following pages, you'll be asked which of two statements is more like you.
-Sometimes, neither option will sound exactly like you. Other times, both options will sound somewhat like you. No need to overthink it – just go with the first one you're drawn to.
-
 ## Warm-up question
 Take a minute to look around and to get familiar with the question timer at the top of the page.
 
