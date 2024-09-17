@@ -107,6 +107,7 @@ Account numbers with two or fewer "5"s are incorrect and should be deleted.
 - [x] 827820-451211-91818238
 
 ## Question 15 / 17
+![Image](./Proofreading-15.png)
 
 **How many address labels match the one in the red oval?**
 - [ ] 0
@@ -118,6 +119,7 @@ Account numbers with two or fewer "5"s are incorrect and should be deleted.
 - [ ] 6
 
 ## Question 16 / 17
+![Image](./Proofreading-16.png)
 
 **Which rooms have different information between the two reports? Select all that apply.**
 - [ ] 110
@@ -131,6 +133,7 @@ Account numbers with two or fewer "5"s are incorrect and should be deleted.
 - [ ] 190
 
 ## Question 17 / 17
+![Image](./Proofreading-17.png)
 
 **Which buildings have different information between the reports? Select all that apply.**
 - [ ] 7300
